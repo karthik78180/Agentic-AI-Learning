@@ -32,6 +32,7 @@ This program is designed to take you from foundational concepts to advanced impl
 ### Week 1: Foundations (Days 1-7)
 - [Day 1: Introduction to Agentic AI](./agentic-ai/day-01.md)
 - [Day 2: LLM Fundamentals & API Basics](./agentic-ai/day-02.md)
+- [Day 2B: Hugging Face & Open-Source LLM Ecosystem](./agentic-ai/day-02b-huggingface-opensource.md)
 - [Day 3: Prompt Engineering for Agents](./agentic-ai/day-03.md)
 - [Day 4: Function Calling & Tool Use](./agentic-ai/day-04.md)
 - [Day 5: Building Your First Simple Agent](./agentic-ai/day-05.md)
@@ -86,11 +87,20 @@ Each day includes:
 
 ## Recommended Tools & Frameworks
 
-- **LLM Providers**: OpenAI (GPT-4), Anthropic (Claude), Google (Gemini)
+- **LLM Providers**:
+  - Cloud: OpenAI (GPT-4), Anthropic (Claude), Google (Gemini)
+  - Open-Source: Hugging Face (Llama, Mistral, Phi), Together AI, Replicate
+  - Local: Ollama, LM Studio, vLLM, Text Generation Inference
 - **Agent Frameworks**: LangChain, LangGraph, AutoGen, CrewAI, Semantic Kernel
-- **Vector DBs**: Pinecone, Weaviate, Chroma, Qdrant
+- **Hugging Face Ecosystem**:
+  - Transformers: Model library
+  - Datasets: Data loading and processing
+  - Inference API: Serverless inference
+  - Spaces: Host apps and demos
+  - PEFT: Parameter-efficient fine-tuning
+- **Vector DBs**: Pinecone, Weaviate, Chroma, Qdrant, FAISS
 - **Development**: Python, TypeScript/JavaScript
-- **Tools**: Jupyter Notebooks, VSCode, Git
+- **Tools**: Jupyter Notebooks, VSCode, Git, Docker
 
 ## Progress Tracking
 
