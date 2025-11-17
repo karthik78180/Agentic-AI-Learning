@@ -68,6 +68,9 @@ This program is designed to take you from foundational concepts to advanced impl
 - [Day 29: Capstone Project Planning](./agentic-ai/day-29.md)
 - [Day 30: Capstone Project - Production-Ready Agent System](./agentic-ai/day-30.md)
 
+### Final Assessment
+- [Capstone Knowledge Assessment - Test Your Expertise](./agentic-ai/capstone-knowledge-assessment.md)
+
 ## Prerequisites
 
 - Python programming experience

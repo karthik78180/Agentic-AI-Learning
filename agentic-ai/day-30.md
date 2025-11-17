@@ -335,7 +335,20 @@ Congratulations on completing the 30-Day Agentic AI Expert Program! You've demon
 
 ## You Are Now an Agentic AI Expert!
 
-[← Previous: Day 29](./day-29.md) | [Back to Overview](../README.md)
+## Validate Your Expertise
+
+Ready to test your knowledge comprehensively? Complete the:
+**[Capstone Knowledge Assessment](./capstone-knowledge-assessment.md)**
+
+This comprehensive assessment includes:
+- Theoretical knowledge checks covering all 30 days
+- Practical coding challenges
+- Complete capstone project with specific requirements
+- Self-assessment and reflection exercises
+
+**Achieve 80%+ to earn your completion certification!**
+
+[← Previous: Day 29](./day-29.md) | [Back to Overview](../README.md) | [➡️ Take the Capstone Assessment](./capstone-knowledge-assessment.md)
 
 ---
 
